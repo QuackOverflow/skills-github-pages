@@ -1,4 +1,7 @@
 ---
-title: Welcome to my blog
+title: My Pursuits
 ---
 
+# Climbing
+# Running
+# Bass

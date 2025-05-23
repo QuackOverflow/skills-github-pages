@@ -1,7 +1,3 @@
 ---
-title: My Pursuits
+title: Ruminations
 ---
-
-# Climbing
-# Running
-# Bass
